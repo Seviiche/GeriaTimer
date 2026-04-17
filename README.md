@@ -28,10 +28,10 @@ L'interface est pensée pour des patients présentant des troubles cognitifs : c
 
 C'est un fichier HTML unique, autonome. Aucune installation requise.
 
-1. Téléchargez `GeriaTimer_v3.html`
-2. Ouvrez-le dans n'importe quel navigateur (Chrome, Firefox, Edge, Safari)
-3. Programmez votre séance ou choisissez un programme rapide
-4. Lancez et affichez sur l'écran de la salle de rééducation
+1. Téléchargez `index.html`
+3. Ouvrez-le dans n'importe quel navigateur (Chrome, Firefox, Edge, Safari)
+4. Programmez votre séance ou choisissez un programme rapide
+5. Lancez et affichez sur l'écran de la salle de rééducation
 
 Fonctionne hors-ligne. Aucune donnée n'est envoyée nulle part.
 
